@@ -1,6 +1,16 @@
 # bmi_version_2
 
-A new Flutter project.
+Lesson of Mobile Development Subject.
+
+Create an App that calculate the bmi and show the result, using two or more screens.
+
+| Value(x)         | Result          |
+|------------------|-----------------|
+| x < 18.6         | Underweight     |
+| 18.7 <= x < 29.8 | Ideal Weight    | 
+| 29.9 <= x < 34.8 | Obese Class I   |
+| 34.9 <= x < 39.8 | Obese Class II  |
+| 39.9 <= x        | Obese Class III |
 
 ## Getting Started
 
